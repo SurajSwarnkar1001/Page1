@@ -26,7 +26,7 @@ function App() {
         <div className="grid"></div>
       </div>
       <div className="right">
-        <div className="heading">SUCCESS STORIES</div>
+        <div className="heading">SUCCESS STORIES of suraj!</div>
         <div className="arrow"></div>
         <div className="button"></div>
       </div>
